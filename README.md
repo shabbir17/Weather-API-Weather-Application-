@@ -1,18 +1,16 @@
-# <h3 align="center"></h3>
-## This is a food ordering app where<br>
-⚡ UI done with Flutter and dart<br>
-⚡ Used firebase real-time database for syncing data<br>
-⚡ Can add one or more food in the cart section<br>
-⚡ Automatically total bill will generate<br>
-⚡ Views previous ordered food’s from our account<br>
-⚡ Mail auth login integrate<br>
-⚡ Firebase auth<br>
-#### 🌱 Fisrt User will login & Registration into the app. Here I am attaching the snap-shot of my project.
-![320407754_713254423440581_654386842982392356_n](https://user-images.githubusercontent.com/68172428/221093408-09c14576-7cd1-4fdf-bc39-1eaf14e1a259.png)
-#### 🌱 Then User will give their name and pasword for Login.
-![321419244_1119943518697972_297383291599200540_n](https://user-images.githubusercontent.com/68172428/221093425-9a95ee23-b910-4571-9b86-f3c44466a615.png)
-#### 🌱 After that, User will give their first name, last name, email, phone number, password for Login.
-![320805750_482487850664364_5587044859133552514_n](https://user-images.githubusercontent.com/68172428/221093436-d08f5629-bb1f-4347-a5fb-617364636670.png)
+# <h1 align="center">Weather Application</h1>
+## This is a weather forecasting app where<br>
+⚡ Followed MVVM Architecture Pattern<br>
+⚡ UI Done with Flutter and Dart<br>
+⚡ Restful API, Storage Shared Preference<br>
+
+### 🌱 Fisrt User will select their location(City) into the app. Here I am attaching the snap-shot of my project.
+![332292015_887460695820940_2820304239838413995_n](https://user-images.githubusercontent.com/68172428/221104163-aa98c6c8-6c3a-45b2-82b8-a87310d90afd.png)
+
+### 🌱 Then User will found the description of their current city's weather. And also found city name.
+![332153450_518882710398493_5882950314669730522_n](https://user-images.githubusercontent.com/68172428/221104171-b84f83b9-e686-4caa-9b93-a396527d8b88.png)
+
+
 
 
 
